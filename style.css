@@ -199,15 +199,7 @@ h2 {
   touch-action: manipulation;
 }
 
-.container2 {
-  position: relative;
-  margin-top: 50px;
-  padding: 10px;
-  border-radius: 5px;
-  width: 100%;
-  max-width: 540px;
-  touch-action: manipulation;
-}
+
 .search-box {
   position: relative;
   width: 100%;

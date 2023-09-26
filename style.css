@@ -3,16 +3,6 @@ body {
   margin: 0;
   background: #fff7d5;
 }
-.container {
-  position: relative;
-  margin-top: 100px;
-}
-.container img {
-  display: block;
-  width: 100%;
-}
-
-
 
 /* NAV section Start */
 nav {

@@ -378,8 +378,8 @@ h2 {
 
 /* Location dropdown menu Start */
 .dropdown {
-  margin: :auto
-  position: absolute;
+  margin:auto;
+  position:relative;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);

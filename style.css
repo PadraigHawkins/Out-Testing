@@ -378,9 +378,11 @@ h2 {
 
 /* Location dropdown menu Start */
 .dropdown {
-  position: relative;
-  display: inline-block;
-  padding-left: 33%;
+  margin: :auto
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .dropbtn {

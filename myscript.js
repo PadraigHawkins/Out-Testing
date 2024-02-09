@@ -1,4 +1,3 @@
-
 // list of pubs with associated hyperlinks
 const names = [
   { name: 'PYG', link: 'https://goo.gl/maps/21zWP7ZK7Rqmn5kF6' },
@@ -45,3 +44,20 @@ function selectRandomName() {
   selectedNameElement.innerHTML = `<a href="${selectedName.link}">${selectedName.name}</a>`;
 }
 
+
+function toggleDropdown() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}

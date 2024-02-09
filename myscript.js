@@ -8,7 +8,6 @@ const names = [
   { name: 'CASSIDYS', link: 'https://goo.gl/maps/rtJN7Hi7N1y8ioKV8' },
   { name: 'MARYS BAR', link: 'https://goo.gl/maps/eCmThjCTtqQjVau49' },
   { name: 'WHELANS', link: 'https://goo.gl/maps/ZDjDLsX1xnLqFk3P6' },
-  { name: 'P MACS', link: 'https://goo.gl/maps/VwCyfiqpeWcUNrvK7' },
   { name: 'TAPPED', link: 'https://goo.gl/maps/XGagPobWsUWXoZH6A' },
   { name: '4 DAME LANE', link: 'https://goo.gl/maps/mvN6jMD5rXSffhsQ8' },
   { name: 'THE WOOL SHED', link: 'https://goo.gl/maps/t3sov5XTJtZMS4jE6' },

@@ -370,6 +370,23 @@ h2 {
       text-decoration: underline;
     }
 
+    #selectedGalway {
+      margin-top: 50px;
+      margin-bottom: 50px;
+      font-size: 33px;
+      font-weight: 700;
+      font-family: 'Montserrat Alternates', sans-serif;
+      text-align: center;
+    }
+
+    #selectedGalway a {
+      color: #2859a7;
+      text-decoration: none;
+    }
+
+    #selectedGalway a:hover {
+      text-decoration: underline;
+    }
     
 
 /* Container section End */

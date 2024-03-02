@@ -402,7 +402,8 @@ h2 {
   display: none;
   text-align: center;
   position: absolute;
-  left: 32%;
+  left:30%;
+  right:30%;
   background-color: #f9f9f9;
   border-radius: 20px;
   min-width: 160px;

@@ -30,7 +30,7 @@ nav .links {
   float: right;
   padding: 0;
   margin: 0;
-  width: 35%;
+  width: 30%;
   height: 100%;
   display: flex;
   justify-content: space-around;
@@ -391,8 +391,6 @@ h2 {
 
 /* Container section End */
 
-
-
 /* Cocktail Button Start */
 
 
@@ -462,4 +460,23 @@ h2 {
 
 
 /* footer section end */
+
+
+.icon-button {
+  background-color: #387eee; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 10px 20px; /* Some padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Make the container an inline-block */
+  font-size: 16px; /* Increase font size */
+  cursor: pointer; /* Pointer/hand icon */
+  border-radius: 12px; /* Rounded corners */
+}
+
+.icon-button svg {
+  vertical-align: middle; /* Vertically align the icon with text */
+  margin-right: 0px; /* Space between icon and text */
+}
 

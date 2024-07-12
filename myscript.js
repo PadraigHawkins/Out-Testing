@@ -94,8 +94,3 @@ window.onclick = function(event) {
     }
   }
 }
-
-
-$('.btn').bind('click', function(){
-  $(this).toggleClass('active');
-});
